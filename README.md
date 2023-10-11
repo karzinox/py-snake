@@ -1,2 +1,2 @@
 # py-snake
-Python snake game
+Python snake game and music listening 
